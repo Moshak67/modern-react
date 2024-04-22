@@ -6,7 +6,7 @@
 - [x] Scafold basic ui with mock data
 - [x] Tidy up build
 - [x] Actually set up a database
-- [] Attach database to ui
+- [x] Attach database to ui
 - [] Add Authentication
 - [] Add image upload
 - [] "taint" (server-only)
