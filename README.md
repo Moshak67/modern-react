@@ -7,8 +7,8 @@
 - [x] Tidy up build
 - [x] Actually set up a database
 - [x] Attach database to ui
-- [] Add Authentication
-- [] Add image upload
+- [x] Add Authentication
+- [x] Add image upload
 - [] "taint" (server-only)
 - [] Use Next/Image component
 - [] Error management (w/ Sentry)
